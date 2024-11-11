@@ -21,6 +21,9 @@ To be continued...
 To be determined...
 
 ## Info
+### WinUi3_Exclusive
+This branch will remain exclusive to the Windows Platform.
+
 ### Development State
 YourGT is currently in a very early developmental state. <br>
 
