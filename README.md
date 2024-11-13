@@ -11,7 +11,7 @@ To be continued...
 <!--(FluentUi) <br> -->
 
 ### Backend & Database
-- [Entity Framework Core](https://learn.microsoft.com/de-de/ef/core/)
+- [Entity Framework Core](https://learn.microsoft.com/de-de/ef/core/) 8
 - [Sqllite](https://sqlite.org/) <br>
 To be continued...
 
