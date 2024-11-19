@@ -1,8 +1,8 @@
-# YourGT
+# GradeMaster
 ###
 
 ## About
-YourGT (Your Grade Tracker) is a Desktop based Grade Tracker.
+GradeMaster (formerly known as YourGT) is a Desktop based Grade Tracker.
 
 ## Technologies Used
 ### Win Client
@@ -28,7 +28,7 @@ The WinUi 3 project is already ported from .NET 7.0 to .NET 8.0 from the origina
 The WinUi 3 project also has built in back-navigation with Mouse4 button.
 
 ### Development State
-YourGT is currently in a very early developmental state. <br>
+GradeMaster is currently in a very early developmental state. <br>
 
 ### Supported Platforms
 The Desktop GUI Client is currently limited to Windows only.
